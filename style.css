@@ -1,33 +1,69 @@
-.moy_wolky_delaut_ayf {
+.body {
+
+    background-image: radial-gradient(circle at center, rgb(138, 0, 0), rgb(196, 0, 0), red, rgb(174, 113, 0), rgb(203, 132, 0), orange, rgb(188, 188, 0), yellow);
+}
+
+.main {
     text-align: center;
-    color: yellow;
-    text-shadow: 5px 5px 7px yellowgreen;
+    color: rgb(38, 0, 74);
+    border: 5px solid black;
+    width: 500px;
+    margin-left: 400px;
 }
 
-
-.wasya {
-    width: 600px;
-    height: 404px;
-}
-
-.wasya2 {
-    width: 600px;
-    height: 404px;
-}
-
-body {
-    /* background-image:linear-gradient(to right bottom, skyblue, violet, gold, orange); */
-background-image: radial-gradient(ellipse at center, red, orange,gold, yellow);
-}
-
-.box-style {
-    border: 0.000000000000000000000000000000000000000000000005px dashed rgb(3, 3, 74);
+.text_shark {
+    color: whitesmoke;
     width: 800px;
-    height: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    background-image: radial-gradient(circle at center, black, blueviolet, blue, violet, skyblue, white);
-    padding-top: 150px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    height: 125px;
+    text-align: center;
+    border: 3px solid black;
+    margin-left: 250px;
+    margin-left: 250px;
+}
+
+.shark_images_golovna {
+    width: 450px;
+    height: 350px;
+    margin-left: 425px;
+}
+
+.pages_list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none ;
+}
+
+.pages-link {
+  font-family: 'Kaushan Script';
+  text-decoration: none ;
+  text-shadow: 3px 1px 3px black;
+  font-size: 36px;
+}
+
+.father {
+    display: flex;
+    justify-content: space-between;
+    list-style: none ;
+}
+
+.shark-1_list {
+    border: 3px solid black;
+    width: 322px;
+    height: 350px;
+}
+
+.shark-1_image {
+    width: 322px;
+    height: 245px;
+}
+
+.shark-2_list {
+    border: 3px solid black;
+    width: 322px;
+    height: 350px;
+}
+
+.shark-2_image {
+    width: 322px;
+    height: 245px;
 }

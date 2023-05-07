@@ -64,7 +64,8 @@
 .shark-2_list {
     border: 3px solid black;
     width: 322px;
-    height: 350px;
+    height: 303px;
+    margin-top: 50px;
     position: relative;
 }
 

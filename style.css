@@ -100,7 +100,8 @@
 .momo {
     width: 1300px;
     height: 800px;
-    margin-left: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .button {
@@ -116,4 +117,11 @@
 .shark-2_list:hover {
     box-shadow: 1px 2px 8px 5px rgb(0, 0, 0);
 
+}
+
+
+.el_primo {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
